@@ -6,11 +6,11 @@
 
 ！！！需要安装nodejs
 
-```shell
+```
 npm install
 ```
 
-```JS
+```
 node js.js
 ```
 
