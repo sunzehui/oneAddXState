@@ -2,10 +2,10 @@ const axios = require('axios')
 // *****************配置区*****************
 // QQ群号，逗号分隔
 qqGroup = [
-    642975216
+    
 ]
 // 填写登录url
-const url = "https://vslc.ncb.edu.cn/admin/auth/csrStudentAction/login?grant_type=password&username=371325200110156159&password=RioCXf0boG51ABLV1Bt6XQ%3D%3D&uuid=9c57f5b680c343828e672b33c1b373ca"
+const url = ""
 // *****************配置区*****************
 async function getStatus() {
     try {
